@@ -27,6 +27,9 @@ HTML, CSS, JavaScript (Frontend)
 React.js (Optional for a modern UI)
 
  LocalStorage (For storing tasks, optional)
+ ## 🚀 Live Demo
+Check out the live demo of the website [here](https://679a00536947fd3856e00c1c--dashing-blini-fca4c5.netlify.app/).
+
  
 💡 Usage
 
